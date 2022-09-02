@@ -1,1 +1,1 @@
-the script prints the name of the working directory
+displays content list of the current working directory
