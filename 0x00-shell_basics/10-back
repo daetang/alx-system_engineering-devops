@@ -1,1 +1,2 @@
-change working directory
+#!/bin/bash
+cd ..
